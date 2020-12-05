@@ -1,0 +1,27 @@
+ @pytest.mark.skip >>>>>>>>>>>> to skip a test
+pytest test_failure.py -v --maxfail = 1 >>>>>>>>>>>>>>>.  to stop a test after number of testcase fail
+@pytest.mark.xfail >>>>>>>>. Ignore test case till it is completed ()
+@pytest.mark.parametrize("num, output",[(1,11),(2,22),(3,35),(4,44)]) >>>>> (parametrize a test case)
+
+@pytest.fixture >>>> (data Provider)
+@pytest.mark.smoke >>>>> Grouping a test case 
+assert  >> Assertion
+
+<<<Run test in parallel>>>
+pip install pytest-xdist  >>>   Install Plugin
+pytest -n 3 [pytest -n <num>]
+
+<<<execute the tests from test_multiplcation.py and generate the xml :
+"Generating results xml using pytest -v --junitxml = "result.xml".">>>
+pytest test_multiplication.py -v --junitxml="result.xml"
+
+Executing all test files using pytest –v.
+Executing specific file usimng pytest <filename> -v.
+Execute tests by substring matching pytest -k <substring> -v.
+Execute tests based on markers pytest -m <marker_name> -v.
+Creating fixtures using @pytest.fixture.
+conftest.py allows accessing fixtures from multiple files.
+
+----------------------- Terminal
+
+python3 -m pytest  >> Execute all test inside directory 

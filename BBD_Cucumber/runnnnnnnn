@@ -1,0 +1,14 @@
+# run all tests
+behave
+
+# run the scenarios in a feature file
+behave features/web.feature
+
+# run all tests that have the @duckduckgo tag
+behave --tags @duckduckgo
+
+# run all tests that do not have the @unit tag
+behave --tags ~@unit
+
+# run all tests that have @basket and either @add or @remove
+behave --tags @basket --tags @add,@remove

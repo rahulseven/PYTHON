@@ -1,0 +1,27 @@
+1607100291458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0ecWUSxsYDU2"
+1607100314936	Marionette	INFO	Listening on port 42209
+1607100315126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607100496627	Marionette	INFO	Stopped listening on port 42209
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1607100499559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qsJdSCTipft7"
+1607100507612	Marionette	INFO	Listening on port 34679
+1607100507690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607100688975	Marionette	INFO	Stopped listening on port 34679
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1607158343089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UsLrapsvj07M"
+1607158361929	Marionette	INFO	Listening on port 45179
+1607158361960	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1607158381713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cOnFF8Dahy0q"
+1607158390736	Marionette	INFO	Listening on port 32971
+1607158390758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607158571904	Marionette	INFO	Stopped listening on port 32971
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 921: Error: Connection is not open.
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1607158584073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z3MaXmrhsuve"
+1607158597341	Marionette	INFO	Listening on port 43757
+1607158597360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607158778641	Marionette	INFO	Stopped listening on port 43757
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.

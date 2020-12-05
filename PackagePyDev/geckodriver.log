@@ -1,0 +1,18 @@
+1606993138873	geckodriver	INFO	Listening on 127.0.0.1:60209
+1606993139691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZkIJaq"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/rahul/.Xauthority which is owned by rahul.)
+1606993160598	geckodriver	INFO	Listening on 127.0.0.1:37061
+1606993160607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYX4V7n"
+Running Firefox as root in a regular user's session is not supported.  ($XAUTHORITY is /home/rahul/.Xauthority which is owned by rahul.)
+1606993251192	geckodriver	INFO	Listening on 127.0.0.1:48903
+1606993251202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoaVNEE"
+1606993278140	Marionette	INFO	Listening on port 33869
+1606993278274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1606993606936	Marionette	INFO	Stopped listening on port 33869
+1606993658783	geckodriver	INFO	Listening on 127.0.0.1:39473
+1606993658842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQptzlT"
+1606993673308	Marionette	INFO	Listening on port 38369
+1606993673341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1606993950609	Marionette	INFO	Stopped listening on port 38369
